@@ -1,0 +1,19 @@
+{
+  "name": "federalist-gatsby-uswds-demo-api",
+  "version": "1.0.0",
+  "description": "Demo api for the federalist gatsby uswds template",
+  "main": "index.js",
+  "author": "davemcorwin",
+  "license": "CC0-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/18f/federalist-gatsby-uswds-demo-api"
+  },
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

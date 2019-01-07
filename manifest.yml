@@ -1,0 +1,5 @@
+---
+applications:
+- name: federalist-gatsby-uswds-demo-api
+  buildpack: nodejs_buildpack
+  memory: 256M
